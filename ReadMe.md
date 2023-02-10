@@ -1,5 +1,5 @@
 # 💫 About Me:
-  Hi, I'm Nikhil Borse,<br>🔭 I’m currently working on Web Dev & Rest API's<br>👯 I’m looking to collaborate on Interesting project based on Web Development🤝 I’m looking for help with<br>🌱 I’m currently learning React.js , Next.js<br><br>Reach me : nikhilrb13@gmail.com
+  Hi, I'm Nikhil Borse,<br>🔭 I’m currently working on Web Dev & Rest API's<br>👯 I’m looking to collaborate on Interesting project based on Web Development<br>🌱 I’m currently learning React.js , Next.js<br><br>Reach me : nikhilrb13@gmail.com
 
 
 ## 🌐 Socials:
