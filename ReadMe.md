@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi 👋, I'm Nikhil Borse</h2>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A enthusiast frontend developer from India.</h3>
 
 
  🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Interesting project based on Web Development<br>🌱 I’m currently learning React.js , Next.js<br>
