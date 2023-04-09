@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-borse00123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-borse00123/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-borse00123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-borse00123/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/_n.i.k.h.i.l_b.o.r.s.e_?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_n.i.k.h.i.l_b.o.r.s.e_?igshid=zddkntzintm=" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://hashnode.com/@nikhil00123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@nikhil00123" height="30" width="40" /></a>
 <a href="https://discord.gg/Nik0013#0092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nik0013#0092" height="30" width="40" /></a>
