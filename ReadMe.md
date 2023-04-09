@@ -1,12 +1,15 @@
 
 <h2 align="center">Hi 👋, I'm Nikhil Borse</h2>
-<h3 align="center">A enthusiast frontend developer from India.</h3>
+<h3 align="center">A Enthusiast Frontend Developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=00123nikhil&label=Profile%20views&color=0e75b6&style=flat" alt="00123nikhil" /> </p>
 
 
- 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Interesting project based on Web Development<br>🌱 I’m currently learning React.js , Next.js<br>
-  🌱 Enthusiast in DevOps and Full Stack Development.<br> 🤔 Exploring new technologies and developing software solutions
-  <br>Reach me : nikhilrb13@gmail.com
+ - 🔭 I’m currently working on Web Development<br>
+ - 👯 I’m looking to collaborate on Interesting project based on Web Development<br>
+ - 🌱 I’m currently learning React.js , Next.js<br>
+ - 🌱 Enthusiast in DevOps and Full Stack Development.<br> 
+ - 🤔 Exploring new technologies and developing software solutions<br>
+ - Reach me : nikhilrb13@gmail.com
   - 📝 I regularly write blogs on [https://niksknowledgecode.hashnode.dev/](https://niksknowledgecode.hashnode.dev/)
 
 
